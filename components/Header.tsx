@@ -1,11 +1,13 @@
 import React, { ReactElement } from 'react'
 import Logo from '../public/Logo'
+import LogoIcon from '../public/LogoIcon'
 
 function Header(): ReactElement {
     return (
-        <div className='flex flex-row items-center justify-between px-28 mt-12'>
+        <div className='flex flex-row items-center justify-between px-5 sm:px-16 lg:px-28 mt-12'>
             <a href="/">
-                <Logo className='cursor-pointer' />
+                <Logo className='cursor-pointer hidden sm:block' />
+                <LogoIcon className='cursor-pointer sm:hidden' />
             </a>
             <div>
                 <p className='text-aris-blue text-lg'>

@@ -11,6 +11,9 @@ module.exports = {
       },
       fontFamily: {
         'aris-sora': ["'Sora'", 'sans-serif']
+      },
+      screens: {
+        'xs': '360px'
       }
     },
   },
