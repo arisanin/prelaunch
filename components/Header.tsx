@@ -18,7 +18,7 @@ function Header(): ReactElement {
                     <span> / </span>
                     <a href="https://linkedin.com/company/arisanin" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Linkedin</a>
                     <span> / </span>
-                    <a href="mailto:arisaninhq@gmail.com" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Email</a>
+                    <a href="mailto:hello@arisanin.com" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Email</a>
                 </p>
             </div>
         </div>
