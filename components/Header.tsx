@@ -19,6 +19,8 @@ function Header(): ReactElement {
                     <a href="https://linkedin.com/company/arisanin" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Linkedin</a>
                     <span> / </span>
                     <a href="mailto:hello@arisanin.com" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Email</a>
+                    <span> / </span>
+                    <a href="gpg.txt" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>GPG Key</a>
                 </p>
             </div>
         </div>
