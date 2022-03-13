@@ -11,7 +11,7 @@ class MyDocument extends Document {
                     <meta name="description" content="Aplikasi yang membantu kamu ikut atau bahkan bikin arisan online/offline jadi lebih gampang dan aman." />
                     <link rel="icon" href="/favicon.ico" />
                 </Head>
-                <body>
+                <body className='bg-aris-cream'>
                     <Main />
                     <NextScript />
                 </body>
