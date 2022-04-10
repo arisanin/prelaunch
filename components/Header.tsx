@@ -14,13 +14,9 @@ function Header(): ReactElement {
             </Link>
             <div>
                 <p className='text-aris-blue text-lg'>
-                    <a href="https://github.com/arisanin" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>GitHub</a>
+                    <a href="mailto:hello@arisanin.com" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Hubungi Kami</a>
                     <span> / </span>
-                    <a href="https://linkedin.com/company/arisanin" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Linkedin</a>
-                    <span> / </span>
-                    <a href="mailto:hello@arisanin.com" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Email</a>
-                    <span> / </span>
-                    <a href="gpg.txt" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>GPG Key</a>
+                    <a href="https://status.arisanin.com/" target="_blank" rel="noopener noreferrer" className='text-aris-grey hover:underline'>Status</a>
                 </p>
             </div>
         </div>
